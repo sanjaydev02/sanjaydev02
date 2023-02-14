@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/sanjaytwts" target="blank"><img src="https://img.shields.io/twitter/follow/sanjaytwts?logo=twitter&style=for-the-badge" alt="sanjaytwts" /></a> </p>
 
-- 🌱 I’m currently learning **Everything**
+- 🌱 I’m currently learning **Backend Technology**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
